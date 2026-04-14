@@ -1,4 +1,7 @@
-Welcome to my Github page, some content will be added gradually.. ⏳
+<div align="center">
+  <p>Welcome to my Github page, some content will be added gradually.. ⏳</p>
+  <img src="https://github.com/user-attachments/assets/57eaca81-00d1-46bc-9258-47b2be787f6c" alt="Nyan Cat" />
+</div>
 
 <!--
 **nodelpit/nodelpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
