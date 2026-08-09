@@ -7,8 +7,6 @@
 
 ## My projects and my contributions
 [![cobalt](https://github-readme-stats.vercel.app/api/pin/?username=servo&repo=servo&theme=cobalt)](https://github.com/servo/servo)
-[![dracula](https://github-readme-stats.vercel.app/api/pin/?username=nodelpit&repo=Ferrisolver&theme=dracula)](https://github.com/nodelpit/Ferrisolver)
-
 <!--
 **nodelpit/nodelpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
