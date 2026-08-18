@@ -8,6 +8,7 @@
 ## Projects and Contributions
 
 [![proxy-tcp](https://github-stats-extended.vercel.app/api/pin/?username=nodelpit&repo=tcp-proxy&theme=dracula)](https://github.com/nodelpit/tcp-proxy)
+[![Servo](https://github-readme-stats-fast.vercel.app/api/pin/?username=nodelpit&repo=tokio-ws&theme=blueberry)](https://github.com/nodelpit/tokio-ws)
 [![Servo](https://github-readme-stats-fast.vercel.app/api/pin/?username=servo&repo=servo&theme=cobalt)](https://github.com/servo/servo)
 
 <!--
